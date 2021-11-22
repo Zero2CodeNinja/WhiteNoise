@@ -1,0 +1,2 @@
+# WhiteNoise
+Static Website
